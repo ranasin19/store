@@ -1,0 +1,73 @@
+<html><head>
+<style>
+
+body {
+ background-image: url("bgthis.png"); 
+ background-size: 80%;
+}
+
+h1{text-align:center; 
+font-family: "Times New Roman", Times, serif;
+color:white;
+font-size: 35px;
+border:2px solid;
+border-color:purple;
+border-radius: 13px; 
+text-shadow: -1px 1px 0 #000,
+                          1px 1px 0 #000,
+                         1px -1px 0 #000,
+                        -1px -1px 0 #000;
+}
+
+div.gallery {
+border:2px solid;
+border-color:black;
+border-radius: 13px;}
+
+.button {
+  background-color: purple;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+</style>
+</head>
+<body>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h1>أخبرنا عن المشكلة التي واجهتك؟</h1>
+<br>
+<br>
+<br>
+<br>
+<form method="post" action="file.php">
+
+⠀⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀⠀ ⠀⠀ ⠀⠀⠀ ⠀⠀ ⠀⠀⠀ ⠀⠀⠀ ⠀ ⠀⠀ ⠀⠀⠀ ⠀⠀⠀ ⠀⠀ ⠀⠀⠀⠀⠀  ⠀⠀⠀ <textarea cols="40" rows="15" name="bio"></textarea>
+
+
+        </form>
+⠀ ⠀⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀⠀ ⠀⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀⠀ ⠀⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀⠀ ⠀⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀⠀ ⠀⠀  ⠀⠀ ⠀⠀⠀ ⠀⠀ ⠀⠀<a href="#" class="button">( إرسال )</a>
+
+<br> 
+<br> 
+<br> 
+<br>
+<br> 
+<br> 
+<br> 
+<br>
+<br> 
+
+<div class="gallery">
+⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀⠀ ⠀⠀ ⠀⠀ ⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀⠀ ⠀⠀⠀ ⠀     ⠀⠀ ⠀⠀⠀ ⠀⠀⠀ ⠀    ⠀⠀ ⠀⠀⠀ ⠀⠀⠀ ⠀    ⠀⠀ ⠀⠀⠀ ⠀⠀⠀ <a target="_blank" href="twt.png">
+  </a><a href="https://twitter.com/nhrwbsite"><img src="twt.png" width="70" height="70"></a>
+<h5>     ⠀      ⠀      ⠀  ⠀⠀ ⠀⠀⠀⠀ ⠀⠀ ⠀⠀⠀  ⠀⠀ ⠀⠀⠀ ⠀⠀⠀⠀ ⠀⠀ ⠀⠀⠀ ⠀⠀ ⠀⠀⠀⠀  ⠀⠀⠀ ⠀ ⠀    ⠀⠀⠀ ⠀ ⠀    ⠀⠀⠀ ⠀ ⠀    ⠀⠀⠀ ⠀ ⠀    ⠀⠀⠀ ⠀ ⠀  للتواصل عبر الهاتف: +9669852237</h5>
+</body></html>

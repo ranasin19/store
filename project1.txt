@@ -1,0 +1,84 @@
+<html>
+
+<head>
+<style>
+
+body {
+  background-image: url("banner.png");
+background-size: 90%; 
+}
+
+h1 {text-align:center; 
+font-family: "Times New Roman", Times, serif;
+color:white;
+font-size: 34px;
+text-shadow: -1px 1px 0 #000,
+                          1px 1px 0 #000,
+                         1px -1px 0 #000,
+                        -1px -1px 0 #000;
+border:2px solid;
+border-color:black;
+border-radius: 13px; } 
+
+h4 { 
+text-align:center;
+font-family: "Lucida Console", "Courier New", monospace;
+color:#F1C1D8;
+font-size: 19px;}
+
+
+div.gallery {}
+lom.gallery {
+text-align:justify;
+font-family: "Times New Roman", Times, serif;
+color:white;
+font-size: 10px;
+text-shadow: -1px 1px 0 #000,
+                          1px 1px 0 #000,
+                         1px -1px 0 #000,
+                        -1px -1px 0 #000;}
+
+h2 { 
+text-align:justify;
+font-family: "Times New Roman", Times, serif;
+color:white;
+font-size: 28px;
+text-shadow: -1px 1px 0 #000,
+                          1px 1px 0 #000,
+                         1px -1px 0 #000,
+                        -1px -1px 0 #000;}
+
+
+
+
+
+
+</style>
+  </head>
+<body>
+⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀⠀ ⠀⠀⠀ ⠀⠀ ⠀ ⠀⠀⠀⠀ ⠀⠀<img src="light.png" width="150" height="200">
+
+<h1>NHR for Computer Accessories<br>
+نهر لمستلزمات الحاسب الالي</h1>
+<h4>!موقعنا يقدم لكم ما تحتاجونه من مستلزمات الحاسب وغيره بأفضل الأسعار في السوق حاليا</h4>
+<div class="gallery">
+       ⠀ <a target="_blank" href="sup.png">
+</a><a href="page1.html"><img src="sup.png" width="100" height="100"></a>  ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀⠀ ⠀⠀  ⠀⠀⠀ ⠀⠀  ⠀⠀⠀ ⠀⠀  ⠀⠀⠀ ⠀⠀ ⠀<a target="_blank" href="proo.png"></a><a href="page2.html"><img src="proo.png" width="100" height="100"></a>  ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀⠀ ⠀⠀  ⠀⠀⠀ ⠀⠀  ⠀⠀⠀ ⠀⠀⠀<a target="_blank" href="shipo2.png"></a><a href="page3.html"><img src="shipo2.png" width="110" height="110"></a></div>
+
+  <h2> [ الدعم الفني ]⠀   ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀  ⠀  ⠀ ⠀    ⠀ ⠀  ⠀   ⠀⠀  ⠀⠀ ⠀ [ المنتجات ] ⠀ ⠀ ⠀ ⠀   ⠀  ⠀  ⠀ ⠀ ⠀ ⠀  ⠀⠀ ⠀ ⠀  ⠀  ⠀ ⠀[ أسعار الشحن ]</h2>
+<br> 
+<br>
+<br> 
+<br><br> <br> 
+<br>
+<br> 
+<br>
+<br>
+<br> 
+<br>
+
+<div class="gallery">
+⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀⠀ ⠀⠀ ⠀⠀ ⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀⠀ ⠀⠀⠀ ⠀    ⠀⠀⠀⠀ ⠀⠀ ⠀⠀⠀⠀ ⠀⠀  ⠀⠀⠀⠀ ⠀⠀ ⠀⠀⠀⠀ ⠀⠀  <a target="_blank" href="twt.png">
+    </a><a href="https://twitter.com/nhrwbsite"><img src="twt.png" width="70" height="70"></a>
+<h5>     ⠀      ⠀      ⠀  ⠀⠀ ⠀⠀⠀⠀ ⠀⠀ ⠀⠀⠀  ⠀⠀ ⠀⠀⠀⠀ ⠀⠀ ⠀⠀⠀⠀ ⠀⠀ ⠀⠀⠀⠀ ⠀⠀ ⠀⠀⠀⠀ ⠀⠀  ⠀⠀⠀⠀ ⠀⠀ ⠀⠀⠀⠀⠀⠀ ⠀ ⠀⠀⠀ ⠀⠀  للتواصل عبر الهاتف: +9669852237</h5>
+</body></html>
